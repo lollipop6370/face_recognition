@@ -13,17 +13,17 @@
  '*******************************************************************'
 
  *******************************************************************
+ 
+      solution:
 
-  solution:
+      download
 
-  download
-
-  https://cmake.org/download/
+      https://cmake.org/download/
 
 
-  for MAC
+      for MAC
 
-  sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
+      sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
 
 
 #
