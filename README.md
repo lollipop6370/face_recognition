@@ -1,16 +1,16 @@
 # face_recognition
 
--import face_recognition
+- import face_recognition
 
  pip3 install face_recognition
  
  RuntimeError:
 
-*******************************************************************
+"*******************************************************************"
 
 CMake must be installed to build the following extensions: dlib
 
-*******************************************************************
+"*******************************************************************"
 
 solution:
 
@@ -27,7 +27,7 @@ sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
 #
 
 
--import cv2
+- import cv2
 
 download OpenCV
 
@@ -43,7 +43,7 @@ go to cmd type --> pip install numpy
 #
 
 
--run
+- run
 
 go to cmd type -->python (your python file name).py
 
