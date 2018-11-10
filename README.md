@@ -23,6 +23,10 @@ for MAC
 
 sudo "/Applications/CMake.app/Contents/bin/cmake-gui" --install
 
+
+#
+
+
 -import cv2
 
 download OpenCV
@@ -34,6 +38,9 @@ go to OpenCV subdirectory to find cv2.pyd and copy to your python Lib
 (maybe in --> opencv\build\python\2.7\x64)
 
 go to cmd type --> pip install numpy
+
+
+#
 
 
 -run
